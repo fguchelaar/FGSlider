@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0C3E206C18F07A8C001BAE1D /* FGSlider.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C3E206B18F07A8C001BAE1D /* FGSlider.m */; };
+		0C3E206E18F080BC001BAE1D /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0C3E206D18F080BC001BAE1D /* Storyboard.storyboard */; };
 		0C4B122F18F07526004E0022 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C4B122E18F07526004E0022 /* Foundation.framework */; };
 		0C4B123118F07526004E0022 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C4B123018F07526004E0022 /* CoreGraphics.framework */; };
 		0C4B123318F07526004E0022 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C4B123218F07526004E0022 /* UIKit.framework */; };
@@ -20,6 +21,7 @@
 /* Begin PBXFileReference section */
 		0C3E206A18F07A8C001BAE1D /* FGSlider.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FGSlider.h; sourceTree = "<group>"; };
 		0C3E206B18F07A8C001BAE1D /* FGSlider.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FGSlider.m; sourceTree = "<group>"; };
+		0C3E206D18F080BC001BAE1D /* Storyboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
 		0C4B122B18F07526004E0022 /* FGSlider iOS Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "FGSlider iOS Example.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0C4B122E18F07526004E0022 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		0C4B123018F07526004E0022 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -102,6 +104,7 @@
 				0C4B123E18F07526004E0022 /* FGUAppDelegate.m */,
 				0C4B124018F07526004E0022 /* Images.xcassets */,
 				0C4B123518F07526004E0022 /* Supporting Files */,
+				0C3E206D18F080BC001BAE1D /* Storyboard.storyboard */,
 			);
 			path = "FGSlider iOS Example";
 			sourceTree = "<group>";
@@ -171,6 +174,7 @@
 			files = (
 				0C4B123918F07526004E0022 /* InfoPlist.strings in Resources */,
 				0C4B124118F07526004E0022 /* Images.xcassets in Resources */,
+				0C3E206E18F080BC001BAE1D /* Storyboard.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
