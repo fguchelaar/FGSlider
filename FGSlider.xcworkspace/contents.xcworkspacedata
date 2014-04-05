@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:LICENSE">
+   </FileRef>
+   <FileRef
+      location = "group:README.md">
+   </FileRef>
+   <Group
+      location = "group:FGSlider"
+      name = "FGSlider">
+      <FileRef
+         location = "group:FGSlider.h">
+      </FileRef>
+      <FileRef
+         location = "group:FGSlider.m">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:Example/FGSlider iOS Example.xcodeproj">
+   </FileRef>
+</Workspace>

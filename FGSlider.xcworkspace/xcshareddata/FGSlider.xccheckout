@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B7188AE7-AF16-4B7B-970B-4E1B0A97DA01</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FGSlider</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B0123BD2-51AE-4A5B-8725-47218586F108</key>
+		<string>https://github.com/fguchelaar/FGSlider.git</string>
+		<key>F967FE4E-BDEA-4CA1-A613-6A733035C1C5</key>
+		<string>https://github.com/fguchelaar/FGSlider.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FGSlider.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B0123BD2-51AE-4A5B-8725-47218586F108</key>
+		<string>../Example/FGSlider iOS Example</string>
+		<key>F967FE4E-BDEA-4CA1-A613-6A733035C1C5</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/fguchelaar/FGSlider.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F967FE4E-BDEA-4CA1-A613-6A733035C1C5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F967FE4E-BDEA-4CA1-A613-6A733035C1C5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FGSlider iOS Example</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B0123BD2-51AE-4A5B-8725-47218586F108</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FGSlider iOS Example</string>
+		</dict>
+	</array>
+</dict>
+</plist>
