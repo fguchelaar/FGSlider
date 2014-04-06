@@ -7,3 +7,7 @@ Installation
 ------------
 
 Simply drag FGSlider.h and FGSlider.h into your project. When using Storyboards, set the custom class of a UISlider to FGSlider.
+
+Example
+-------
+![](https://dl.dropboxusercontent.com/u/2839228/FGSlider.gif)
