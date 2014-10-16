@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
     s.summary      = "A UISlider subclass with the possibility to tap on the Min and Max Images to set the value to the minimum or maximum value."
 
     s.description  = "FGSlider allows your users to tap on the Min and Max Images of a UISlider, to set the value to the minimum or maximum value."
-
+    s.requires_arc = true
     s.homepage     = "https://github.com/fguchelaar/FGSlider"
     s.license      = "MIT"
     s.author             =  "Frank Guchelaar"
